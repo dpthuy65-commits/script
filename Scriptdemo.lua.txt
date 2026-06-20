@@ -35,13 +35,13 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 ------- BUTTON
     
     AddButton(Tab1o, {
-     Name = "fly",
+     Name = "esp",
     Callback = function()
 	  local Settings = {
   JoinTeam = "Pirates"; -- Pirates/Marines
   Translator = true; -- true/false
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))(Settings)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dpthuy65-commits/script/refs/heads/main/obf_Qb0OM870q0675pxFH9age7zlU0BI7aVFaWqF65KVXtOK20vKgra8lDo8KrCztG92.lua"))()
   end
   })
