@@ -45,3 +45,9 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 loadstring(game:HttpGet("https://raw.githubusercontent.com/dpthuy65-commits/script/refs/heads/main/obf_Qb0OM870q0675pxFH9age7zlU0BI7aVFaWqF65KVXtOK20vKgra8lDo8KrCztG92.lua"))()
   end
   })
+      AddButton(Tab2o, {
+     Name = "fly",
+    Callback = function()
+	  loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Fly-V3-X-BRAZIL-133228"))()
+  end
+  })
